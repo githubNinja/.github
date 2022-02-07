@@ -1,7 +1,7 @@
 {
   "name": "Custom Github JAVA PR Workflow",
   "description": "Github Organization CI starter workflow.",
-  "iconName": "",
+  "iconName": "java",
   "categories": [
     "Go"
   ],
